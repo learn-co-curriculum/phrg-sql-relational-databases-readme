@@ -5,3 +5,5 @@ tags:
 languages:
   - SQL
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/sql-relational-databases-readme.git
