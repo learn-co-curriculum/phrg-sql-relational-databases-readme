@@ -57,6 +57,10 @@ Edgar Codd invented the concept of the relational database, in other words, he c
 
 Codd developed Relational Database Theory as a graduate student. Afterwards, he worked with Don Chamberlain at IBM to create a language that would allow the user to traverse these relational databases for specific subsets of information. 
 
-The language they created was SQL––Structured (or Standard) Query Language. SQL allows the user to carry out queries like "find the employees who make more than the managers", or "find the managers whose employees make under $X" in an efficient and sensical manner. Before SQL, database queries were all about *where* data was stored, instead of *what* data a user is looking for. 
+The language they created was SQL––Structured (or Standard) Query Language. SQL allows the user to carry out queries like "find the employees who make more than the managers", or "find the managers whose employees make under $X" in an efficient and sensical manner. Before SQL, database queries were all about *where* data was stored, instead of *what* data a user is looking for.
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-relational-databases-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-relational-databases-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Edgar Codd and Relational Databases</p>
